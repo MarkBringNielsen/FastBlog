@@ -2,10 +2,10 @@
   
     
         "post0": {
-            "title": "Binder",
-            "content": "Getting binder to work with fast.ai . These are my tips that helped me get it up and running. Firstly, I need to state that I mostly just followed this guide by Butch Landingin. I did however meet a couple of minor hickups and that is what I’m going to explain how to fix. Secondly, I did these things on Paperspace so I cannot speak to how my tips work on Colab. So here are my tips: . When you come across the part where you set up git on paperspace meaning this part: . git config --global user.name &quot;&lt;Your name&gt;&quot; | git config --global user.email &quot;&lt;email@address&gt;&quot; | . I absolutely recommend just doing that right away. . When you get to installing git-lfs just follow the instructions for Ubuntu/Debian except that you do not have sudo rights on paperspace so just leave the sudo out of the commands. . Next in step 7 before running the git commands change to the directory of your git repo: . %cd &lt;your-copy-of-fastai-binder-app-template&gt; . And lastly when setting up the binder remember to get these two things right. . Set the path to an URL path at the dropdown next to “Launch” | Have that path be /voila/render/your-notebook.ipynb | . .",
-            "url": "https://markbringnielsen.github.io/FastBlog/2021/02/23/Binder.html",
-            "relUrl": "/2021/02/23/Binder.html",
+            "title": "My Title",
+            "content": "Getting binder to work with fast.ai . These are my tips that helped me get it up and running. Firstly, I need to state that I mostly just followed this guide by Butch Landingin. I did however meet a couple of minor hickups and that is what I&#39;m going to explain how to fix. Secondly, I did these things on Paperspace so I cannot speak to how my tips work on Colab. So here are my tips: . When you come across the part where you set up git on paperspace meaning this part: . git config --global user.name &quot;&lt;Your name&gt;&quot; | git config --global user.email &quot;&lt;email@address&gt;&quot; | . I absolutely recommend just doing that right away. . When you get to installing git-lfs just follow the instructions for Ubuntu/Debian except that you do not have sudo rights on paperspace so just leave the sudo out of the commands. . Next in step 7 before running the git commands change to the directory of your git repo: . %cd &lt;your-copy-of-fastai-binder-app-template&gt; . And lastly when setting up the binder remember to get these two things right. . Set the path to an URL path at the dropdown next to &quot;Launch&quot; | Have that path be /voila/render/your-notebook.ipynb | . .",
+            "url": "https://markbringnielsen.github.io/FastBlog/fastpages/jupyter/2021/02/23/Binder-setup.html",
+            "relUrl": "/fastpages/jupyter/2021/02/23/Binder-setup.html",
             "date": " • Feb 23, 2021"
         }
         
